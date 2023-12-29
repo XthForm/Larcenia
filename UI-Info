@@ -1,0 +1,50 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "",
+        "DisableIconText": true,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Welcome",
+          "title1": "Thanks for playing on Larcenia!",
+          "text1": "Here you can find links to contact me on Discord and the wiki to ASA.\n\n\nWe've recently enabled crossplay, in case you've noticed some mods are missing.\n\n\nFor further support, feel free to reach out to us.\n\nYou can find information on our mods in the Mods Info tab.",
+          "imageurl": ""
+        }
+      },
+      {
+        "tab2": {
+          "layout": 1,
+          "buttontext": "Mods Info",
+          "title1": "",
+          "text1": "[Dino Tracker] can now be used within your survivor profile next to the tabs at the top.",
+          "imageurl": ""
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discordapp.com/users/287785440856113156"
+        }
+      },
+      {
+        "link2": {
+          "text": "Wiki",
+          "url": "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended"
+        }
+      }
+    ]
+  }
+}
