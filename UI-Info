@@ -27,7 +27,7 @@
           "layout": 1,
           "buttontext": "Mods Info",
           "title1": "",
-          "text1": "[Dino Tracker] can now be used within your survivor profile next to the tabs at the top.",
+          "text1": "<TextStyle.Red><[Simple Creature Finder]>\nCan now be used within your survivor profile next to the tabs at the top.\n\n",
           "imageurl": ""
         }
       }
